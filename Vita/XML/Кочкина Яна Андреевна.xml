@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PatientXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <IDP>0d7e856f-966a-4e4e-a846-d641e7f170a7</IDP>
+  <Surname>Кочкина</Surname>
+  <Name>Яна</Name>
+  <Patronymic>Андреевна</Patronymic>
+  <Birthday>1999-09-14T00:00:00Z</Birthday>
+  <Phone>89172892265</Phone>
+  <Attendances>
+    <IDA>269be6a6-9756-4062-91c1-2311019a728a</IDA>
+    <AttendanceDate>2023-10-29T00:00:00Z</AttendanceDate>
+    <Diagnosis>Халазион</Diagnosis>
+  </Attendances>
+  <Attendances>
+    <IDA>6ff63fe7-718b-4d59-a1eb-8bfee9059bf6</IDA>
+    <AttendanceDate>2023-11-02T00:00:00Z</AttendanceDate>
+    <Diagnosis>Тенонит</Diagnosis>
+  </Attendances>
+</PatientXML>

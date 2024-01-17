@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PatientXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <IDP>b8b91022-9ea0-4130-9073-a54f0cbec598</IDP>
+  <Surname>Давыдов</Surname>
+  <Name>Илья</Name>
+  <Patronymic>Сергеевич</Patronymic>
+  <Birthday>1988-03-08T00:00:00Z</Birthday>
+  <Phone>89176549021</Phone>
+</PatientXML>
