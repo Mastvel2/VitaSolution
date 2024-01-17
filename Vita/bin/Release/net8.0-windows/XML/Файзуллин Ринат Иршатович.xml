@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PatientXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <IDP>cf29a102-93d3-44e6-927a-5b02eb0539ec</IDP>
+  <Surname>Файзуллин</Surname>
+  <Name>Ринат</Name>
+  <Patronymic>Иршатович</Patronymic>
+  <Birthday>1980-05-09T00:00:00Z</Birthday>
+  <Phone>8963245612</Phone>
+  <Attendances>
+    <IDA>9ac412c5-d8ea-4857-a326-4751c2984c89</IDA>
+    <AttendanceDate>2024-01-09T00:00:00Z</AttendanceDate>
+    <Diagnosis>Миопия</Diagnosis>
+  </Attendances>
+</PatientXML>
